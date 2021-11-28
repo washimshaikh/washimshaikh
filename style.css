@@ -16,7 +16,7 @@ nav{
   flex-wrap: wrap;
 }
 nav .logo{
-  margin-right:30px;
+  margin-right:60px;
 }
 nav ul{
   display: flex;
